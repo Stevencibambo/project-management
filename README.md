@@ -1,6 +1,6 @@
-# Project Management System
+# Project Management
 
-This project was built to help project managers handle multiple projects at once. The application implemented Scrum methodology and used Machine Learning to calculate time required to complete a task. This project needs [Time Estimator API](https://github.com/wisuja/flask-time-estimator-api) to run also.
+This project was built to help project managers handle multiple projects at once. The application implemented Scrum methodology and used Machine Learning to calculate time required to complete a task. This project needs [Time Estimator API](https://github.com/stevencibambo/time-estimator-api) to run also.
 <br>
 
 The application was built using Laravel 8 and JQuery. This application also requires [Algolia](https://algolia.com) library to work.
@@ -18,7 +18,7 @@ The application was built using Laravel 8 and JQuery. This application also requ
 9. Lastly, serve the application with this `php artisan serve` command.
 10. The Project Management System application should accessible on your browser on "http://localhost:8000"
 
-### Time Estimator API Server repository: [Click here](https://github.com/wisuja/flask-time-estimator-api)
+### Time Estimator API Server repository: [Click here](https://github.com/stevencibambo/time-estimator-api)
 
 ## Key Features
 
@@ -32,24 +32,7 @@ The application was built using Laravel 8 and JQuery. This application also requ
 ## Screenshots
 
 **Dashboard Screen**
-![Dashboard Screen](./documentation-images/Dashboard.png)
+![Dashboard Screen](./documentation-images/dashboard.png)
 
 **Project Detail - Main Screen**
-![Project Detail - Main Screen](./documentation-images/Project%20View.png)
-
-**Project Detail - Create Task Screen**
-
-> ℹ️ Information
->
-> In this screen, as you can see under Deadline field. There is an <u>Estimated time</u> data. This comes from the Time Estimator API.
-
-![Project Detail - Create Task](./documentation-images/Project%20Create%20Task.png)
-
-**Project Detail - Board View Screen**
-![Project Detail - Board View Screen](./documentation-images/Project%20Board%20View.png)
-
-**Project Detail - Setting Screen**
-![Project Detail - Setting Screen](./documentation-images/Project%20Settings.png)
-
-**Notification**
-![Notification Screen](./documentation-images/Notification.png)
+![Project Detail - Main Screen](./documentation-images/project.png)
