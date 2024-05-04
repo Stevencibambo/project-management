@@ -32,7 +32,7 @@ The application was built using Laravel 8 and JQuery. This application also requ
 ## Screenshots
 
 **Dashboard Screen**
-![Dashboard Screen](./documentation-images/dashboard.png)
+![Dashboard Screen](./documentation-images/Dashboard.png)
 
 **Project Detail - Main Screen**
 ![Project Detail - Main Screen](./documentation-images/project.png)
